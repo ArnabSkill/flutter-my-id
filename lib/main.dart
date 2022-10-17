@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main()=> runApp(MaterialApp(
 
   home: idapp() ,
+  debugShowCheckedModeBanner: false;
 ));
 class idapp extends StatefulWidget {
   @override
