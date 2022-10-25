@@ -58,7 +58,7 @@ class _idappState extends State<idapp> {
                 fontSize: 22,
                 color: Colors.black,
                 // fontFamily:'Baloobhai2',
-                letterSpacing: 2,
+                letterSpacing: 1,
               ),
             ),
             SizedBox(height: 5),
