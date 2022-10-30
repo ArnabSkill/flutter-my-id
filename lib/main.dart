@@ -55,8 +55,8 @@ class _idappState extends State<idapp> {
             Text(
               'Name ',
               style: TextStyle(
-                fontSize: 22,
-                color: Colors.black,
+                fontSize: 32,
+                color: Colors.red,
                 // fontFamily:'Baloobhai2',
                 letterSpacing: 1,
               ),
